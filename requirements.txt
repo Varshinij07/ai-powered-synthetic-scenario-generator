@@ -1,2 +1,7 @@
 joblib
 matplotlib
+seaborn
+pandas
+numpy
+scikit-learn
+
