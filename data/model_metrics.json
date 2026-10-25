@@ -1,0 +1,62 @@
+{
+    "Logistic Regression": {
+        "accuracy": 0.8212,
+        "precision_macro": 0.8258270872137563,
+        "recall_macro": 0.8211999999999999,
+        "f1_macro": 0.8217980615821115,
+        "f1_weighted": 0.8217980615821115,
+        "roc_auc_ovr_macro": 0.9690272,
+        "false_positive_rate_macro": 0.0447,
+        "cv_f1_macro_mean": 0.8127300427623896,
+        "cv_f1_macro_std": 0.004943019705508596,
+        "cv_f1_macro_scores": [
+            0.80765560882799,
+            0.8183636218311964,
+            0.8095697247537025,
+            0.8190956793517575,
+            0.8089655790473014
+        ],
+        "cv_seconds": 0.295,
+        "training_seconds": 0.08
+    },
+    "Random Forest": {
+        "accuracy": 0.8396,
+        "precision_macro": 0.8419493045335644,
+        "recall_macro": 0.8395999999999999,
+        "f1_macro": 0.8400418057141306,
+        "f1_weighted": 0.8400418057141306,
+        "roc_auc_ovr_macro": 0.9765378,
+        "false_positive_rate_macro": 0.0401,
+        "cv_f1_macro_mean": 0.8301372295309521,
+        "cv_f1_macro_std": 0.0063171035928148225,
+        "cv_f1_macro_scores": [
+            0.8254707420906916,
+            0.8423109820086007,
+            0.8249630803372019,
+            0.828798770554012,
+            0.8291425726642545
+        ],
+        "cv_seconds": 3.317,
+        "training_seconds": 0.669
+    },
+    "Extra Trees": {
+        "accuracy": 0.8388,
+        "precision_macro": 0.8418146937237125,
+        "recall_macro": 0.8388,
+        "f1_macro": 0.8394162030920125,
+        "f1_weighted": 0.8394162030920125,
+        "roc_auc_ovr_macro": 0.9757678999999999,
+        "false_positive_rate_macro": 0.040299999999999996,
+        "cv_f1_macro_mean": 0.8262564654322422,
+        "cv_f1_macro_std": 0.0057084535771372335,
+        "cv_f1_macro_scores": [
+            0.8209783691642348,
+            0.8312458552195615,
+            0.8218926476414629,
+            0.8349196828221999,
+            0.8222457723137516
+        ],
+        "cv_seconds": 2.546,
+        "training_seconds": 0.49
+    }
+}

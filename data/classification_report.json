@@ -1,0 +1,45 @@
+{
+    "Brute Force": {
+        "precision": 0.7784679089026915,
+        "recall": 0.752,
+        "f1-score": 0.7650050864699899,
+        "support": 500.0
+    },
+    "Data Exfiltration": {
+        "precision": 0.9100642398286938,
+        "recall": 0.85,
+        "f1-score": 0.8790072388831437,
+        "support": 500.0
+    },
+    "DoS": {
+        "precision": 0.9294605809128631,
+        "recall": 0.896,
+        "f1-score": 0.9124236252545825,
+        "support": 500.0
+    },
+    "Normal": {
+        "precision": 0.7957610789980732,
+        "recall": 0.826,
+        "f1-score": 0.8105986261040236,
+        "support": 500.0
+    },
+    "Port Scan": {
+        "precision": 0.7959927140255009,
+        "recall": 0.874,
+        "f1-score": 0.8331744518589133,
+        "support": 500.0
+    },
+    "accuracy": 0.8396,
+    "macro avg": {
+        "precision": 0.8419493045335644,
+        "recall": 0.8395999999999999,
+        "f1-score": 0.8400418057141306,
+        "support": 2500.0
+    },
+    "weighted avg": {
+        "precision": 0.8419493045335644,
+        "recall": 0.8396,
+        "f1-score": 0.8400418057141306,
+        "support": 2500.0
+    }
+}

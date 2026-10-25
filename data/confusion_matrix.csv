@@ -1,0 +1,6 @@
+,Brute Force,Data Exfiltration,DoS,Normal,Port Scan
+Brute Force,376,1,4,37,82
+Data Exfiltration,2,425,18,54,1
+DoS,11,8,448,12,21
+Normal,41,33,5,413,8
+Port Scan,53,0,7,3,437
